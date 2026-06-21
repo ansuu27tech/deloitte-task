@@ -1,0 +1,16 @@
+{
+  "device": {
+    "id": "device-002",
+    "type": "actuator"
+  },
+  "timestamp": "2026-06-21T12:30:45Z",
+  "country": "Germany",
+  "city": "Berlin",
+  "area": "West",
+  "factory": "Plant 3",
+  "section": "Line A",
+  "data": {
+    "status": "OK",
+    "temperature": 19.9
+  }
+}
